@@ -1,0 +1,56 @@
+/* Global Styles */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header Styles */
+.header {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+.header-logo {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.header-nav {
+  display: inline-block;
+}
+
+.header-nav li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+/* Main Styles */
+.main {
+  padding: 20px;
+}
+
+/* Footer Styles */
+.footer {
+  background-color: #f8f9fa;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-nav li {
+  display: inline-block;
+  margin-right: 10px;
+}
